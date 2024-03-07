@@ -1,5 +1,5 @@
 export declare global {
-    const viteConfiguration:{
-        API_URL:string;
-    }
+    const viteConfiguration: {
+        API_URL: string;
+    };
 }
